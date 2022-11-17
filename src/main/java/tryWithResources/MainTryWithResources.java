@@ -2,8 +2,6 @@ package tryWithResources;
 
 import java.util.Scanner;
 
-
-
 public class MainTryWithResources {
 
     public static void main(String[] args) {
