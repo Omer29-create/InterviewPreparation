@@ -8,8 +8,6 @@ package exampleAbstract;
 
 
 
-
-
 public class Rectangle extends Shape{
     @Override
     void draw() {
