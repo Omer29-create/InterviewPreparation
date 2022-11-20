@@ -1,5 +1,20 @@
 package inheritanceUsage;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 public class ClassA implements ContentPrintable{
 
     private int a;
