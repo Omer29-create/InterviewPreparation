@@ -1,5 +1,18 @@
 package abstractInterfaceUsage;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 public abstract class AbstractClass1 {
     public int a;
     int b;
