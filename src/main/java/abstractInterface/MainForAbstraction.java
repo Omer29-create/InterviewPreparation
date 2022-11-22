@@ -18,10 +18,6 @@ package abstractInterface;
 
 
 
-
-
-
-
 public class MainForAbstraction {
 
     public static void main(String[] args) {
