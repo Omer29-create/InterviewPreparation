@@ -1,5 +1,27 @@
 package abstractInterfaceUsage;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 public class AltSinifImplementsInterface implements Interface1, Interface2{
     @Override
     public void abstractMethod1() {
