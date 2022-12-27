@@ -10,13 +10,6 @@ package inheritanceUsage;
 
 
 
-
-
-
-
-
-
-
 public class ClassB extends ClassA{
 
     private int b;
