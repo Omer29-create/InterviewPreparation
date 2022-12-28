@@ -2,10 +2,6 @@ package exampleAbstract;
 
 
 
-
-
-
-
 public class MainForAbstractionWithAbstractClass {
 
     public static void main(String[] args) {
