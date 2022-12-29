@@ -13,11 +13,6 @@ package exampleAbstract;
 
 
 
-
-
-
-
-
 public abstract class Shape {
 
     private String description;
