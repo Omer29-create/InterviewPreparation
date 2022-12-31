@@ -5,7 +5,6 @@ public class AltSinifOfAbstractClass1 extends AbstractClass1 implements Interfac
     public void abstractMethod1() {
 
     }
-
     
     @Override
     public void abstractMethod2() {
