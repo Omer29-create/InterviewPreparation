@@ -11,11 +11,6 @@ package abstractInterfaceUsage;
 
 
 
-
-
-
-
-
 public class AltSinifOfAbstractClass1 extends AbstractClass1 implements Interface1{
     @Override
     public void abstractMethod1() {
