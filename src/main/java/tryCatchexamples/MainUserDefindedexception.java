@@ -16,9 +16,6 @@ package tryCatchexamples;
 
 
 
-
-
-
 public class MainUserDefindedexception {
 
     public static void main(String[] args) {
